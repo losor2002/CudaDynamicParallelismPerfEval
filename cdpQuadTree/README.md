@@ -22,16 +22,16 @@ In the Visual Studio x64 Native Tools Command Prompt
 
 Iterative:
 ```shell
-cd src\\quadtree
+cd src\quadtree
 nvcc -O3 -arch=sm_80 -std c++17 -I ../../common/inc -o quadtree.exe quadtree.cu
-.\\quadtree.exe
+.\quadtree.exe
 ```
 
 CDP:
 ```shell
-cd src\\cdpQuadtree
+cd src\cdpQuadtree
 nvcc -O3 -arch=sm_80 -rdc=true -std c++17 -I ../../common/inc -o cdpQuadtree.exe cdpQuadtree.cu
-.\\cdpQuadtree.exe
+.\cdpQuadtree.exe
 ```
 
 To modify the algorithm's execution parameters, in both cases you need to modify the three constants at the beginning of the cdpQuadtree function:
