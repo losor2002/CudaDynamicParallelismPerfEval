@@ -1,0 +1,13 @@
+5000 N, 0 Sim, 10 Iter:
+Simulation computed in 1.207 s, at 8.287 fps
+Simulation computed in 1.248 s, at 8.015 fps
+Simulation computed in 1.247 s, at 8.017 fps
+
+50000 N, 0 Sim, 10 Iter:
+Simulation computed in 59.690 s, at 0.168 fps
+Simulation computed in 59.753 s, at 0.167 fps
+Simulation computed in 59.460 s, at 0.168 fps
+
+500000 N, 0 Sim, 10 Iter:
+Simulation computed in 5596.183 s, at 0.002 fps
+Simulation computed in 6058.043 s, at 0.002 fps

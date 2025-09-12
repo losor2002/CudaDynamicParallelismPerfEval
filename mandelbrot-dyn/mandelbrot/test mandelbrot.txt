@@ -1,0 +1,19 @@
+4 * 1024:
+Mandelbrot set computed in 0.007271 s, at 2307.417 Mpix/s
+Mandelbrot set computed in 0.007688 s, at 2182.286 Mpix/s
+Mandelbrot set computed in 0.007459 s, at 2249.318 Mpix/s
+
+8 * 1024:
+Mandelbrot set computed in 0.023768 s, at 2823.532 Mpix/s
+Mandelbrot set computed in 0.023674 s, at 2834.678 Mpix/s
+Mandelbrot set computed in 0.023905 s, at 2807.369 Mpix/s
+
+16 * 1024:
+Mandelbrot set computed in 0.091064 s, at 2947.781 Mpix/s
+Mandelbrot set computed in 0.091131 s, at 2945.607 Mpix/s
+Mandelbrot set computed in 0.090637 s, at 2961.645 Mpix/s
+
+32 * 1024:
+Mandelbrot set computed in 0.342525 s, at 3134.787 Mpix/s
+Mandelbrot set computed in 0.337704 s, at 3179.533 Mpix/s
+Mandelbrot set computed in 0.346556 s, at 3098.319 Mpix/s

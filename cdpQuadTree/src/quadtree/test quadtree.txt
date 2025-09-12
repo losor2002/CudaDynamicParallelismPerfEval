@@ -1,0 +1,34 @@
+1024 * 48 N, 8 D:
+Quadtree built in: 0.0012961 seconds.
+Quadtree built in: 0.0012248 seconds.
+Quadtree built in: 0.0013239 seconds.
+
+1024 * 32 N, 8 D:
+Quadtree built in: 0.0011905 seconds.
+Quadtree built in: 0.0011905 seconds.
+Quadtree built in: 0.00117 seconds.
+
+1024 * 16 N, 8 D:
+Quadtree built in: 0.000955 seconds.
+Quadtree built in: 0.0010658 seconds.
+Quadtree built in: 0.0010345 seconds.
+
+1024 N, 8 D:
+Quadtree built in: 0.0008766 seconds.
+Quadtree built in: 0.0008327 seconds.
+Quadtree built in: 0.0008884 seconds.
+
+1024 * 48 N, 6 D:
+Quadtree built in: 0.0007068 seconds.
+Quadtree built in: 0.000692 seconds.
+Quadtree built in: 0.000692 seconds.
+
+1024 * 48 N, 4 D:
+Quadtree built in: 0.0006414 seconds.
+Quadtree built in: 0.0006051 seconds.
+Quadtree built in: 0.0006107 seconds.
+
+1024 * 48 N, 2 D:
+Quadtree built in: 0.0005951 seconds.
+Quadtree built in: 0.0006023 seconds.
+Quadtree built in: 0.0005527 seconds.
