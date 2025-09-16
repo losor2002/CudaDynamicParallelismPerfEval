@@ -29,15 +29,16 @@ The final report (`Report_HPC.pdf`) summarizes methodology, results, and insight
   - `-rdc=true` required for CDP versions
 
 ## 📂 Repository Structure
-├── mandelbrot-dyn/ # Standard and CDP algorithms for calculating the Mandelbrot set, taken from [Nvidia Blog](https://developer.nvidia.com/blog/introduction-cuda-dynamic-parallelism/)
-
-├── N-body-simulation/ # Direct-Sum and Barnes–Hut algorithms for the N-body problem, taken from [Medium](https://medium.com/@hsinhungw/optimizing-n-body-simulation-with-barnes-hut-algorithm-and-cuda-c76e78228c28)
-
-├── cdpQuadTree/ # Iterative and CDP versions of the algorithm for building a QuadTree, CDP version taken from [Nvidia](https://developer.download.nvidia.com/compute/DevZone/C/html_x64/samples.html)
-
-├── Report_HPC.pdf # Final compiled report
-
+```text
+├── mandelbrot-dyn/     # Standard and CDP algorithms for calculating the Mandelbrot set, taken from Nvidia Blog
+├── N-body-simulation/  # Direct-Sum and Barnes–Hut algorithms for the N-body problem, taken from Medium
+├── cdpQuadTree/        # Iterative and CDP versions of the algorithm for building a QuadTree, CDP version taken from Nvidia
+├── Report_HPC.pdf      # Final report
 └── README.md
+```
+[Mandelbrot Nvidia Blog](https://developer.nvidia.com/blog/introduction-cuda-dynamic-parallelism/)\
+[N-Body Medium article](https://medium.com/@hsinhungw/optimizing-n-body-simulation-with-barnes-hut-algorithm-and-cuda-c76e78228c28)\
+[cdpQuadTree Nvidia downloads](https://developer.download.nvidia.com/compute/DevZone/C/html_x64/samples.html)
 
 ## ▶️ How to Build and Run
 
